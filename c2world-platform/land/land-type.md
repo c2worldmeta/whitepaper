@@ -8,15 +8,15 @@
 
 Allows users to freely build content on LAND. Additionally, owning LAND means being eligible to generate content as a Multi-verse and host on LAND. Lords own private mining pools through their own land.
 
-### PREMIUM LAND LAND Premium
+### LAND Premium
 
-Compared with ordinary land, high-quality land has more advantages.
+Compared with ordinary land, LAND Premium has more advantages.
 
 * Location advantage. Users can roam freely in the C².WORLD Metaverse (seamless large map), while users can take supersonic vehicles to quickly reach important ESTATE stations and explore nearby LANDs. LAND Premium is distributed around the ESTATE of these important brand agencies, social centers or celebrities, which means that LAND in this area will receive higher traffic. Whether it's monetizing content creation, or renting or selling these LAND Premiums, you'll be able to earn even more. And ordinary LAND owners need to spend more energy and money to promote themselves.
 * Support users to issue their own Tokens. When you have LAND Premium, you can generate your own SubVerse from the content created by MOD and host it on LAND Premium. SubVerse supports users to publish their own Tokens on C².WORLD and have their own private domain mining pool. Trade freely on the .WORLD platform.
 * Additional benefits. The LAND Premium sold at the initial mint contains an exclusive limited number of NFTs. These NFTs will not be minted in the future, which means they will become increasingly rare. In addition, owning these exclusive NFTs will have the opportunity to participate in various reward activities of C².WORLD, please continue to pay attention to our community news.
 
-### AreaESTATE
+### ESTATE
 
 Multiple parcels of land can be combined to form an area as a territory through leases, purchases, and alliances with friends.
 
