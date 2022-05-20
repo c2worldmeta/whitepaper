@@ -97,7 +97,7 @@ Constellation Stones can be embedded in the equipment slots to provide different
 
 #### Constellation compatibility
 
-In C².WORLD players can choose different [equipment](Avatar.md#equipment) To change the constellation fit, in addition to the day's fortune, weather, region will also affect the level of constellation fit, high fit will bring more benefits, on the contrary, low fit may greatly reduce the benefits.
+In C².WORLD players can choose different [equipment](avatar.md#equipment) To change the constellation fit, in addition to the day's fortune, weather, region will also affect the level of constellation fit, high fit will bring more benefits, on the contrary, low fit may greatly reduce the benefits.
 
 #### Air Constellation
 

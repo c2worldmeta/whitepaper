@@ -8,23 +8,23 @@
   * [Earn money](<Getting Started/Earn Money.md>)
   * [Multi-verse](<Getting Started/Multi-verse.md>)
 
-## C².WORLD Platform
+## C².WORLD Platform <a href="#c2world-platform" id="c2world-platform"></a>
 
-* [Avatar](<C².WORLD Platform/Avatar.md>)
-* [LAND](<C².WORLD Platform/LAND/README.md>)
-  * [LAND type](<C².WORLD Platform/LAND/LAND type.md>)
-  * [LAND uses](<C².WORLD Platform/LAND/LAND uses.md>)
-  * [LAND Tokenomics](<C².WORLD Platform/LAND/LAND Tokenomics.md>)
-  * [Buy LAND Advantage Now](<C².WORLD Platform/LAND/Buy LAND Advantage Now.md>)
-  * [View owned LAND](<C².WORLD Platform/LAND/View owned LAND.md>)
-  * [Buy LAND way](<C².WORLD Platform/LAND/Buy LAND way.md>)
-* [Create](<C².WORLD Platform/Create.md>)
-* [Marketplace](<C².WORLD Platform/Marketplace/README.md>)
-  * [Blind Box](<C².WORLD Platform/Marketplace/Blind Box.md>)
-  * [Rental system](<C².WORLD Platform/Marketplace/Rental system.md>)
-* [Vault](<C².WORLD Platform/Vault.md>)
-* [DAO](<C².WORLD Platform/DAO.md>)
-* [Dashboard](<C².WORLD Platform/Dashboard.md>)
+* [Avatar](c2world-platform/avatar.md)
+* [LAND](c2world-platform/land/README.md)
+  * [LAND type](c2world-platform/land/land-type.md)
+  * [LAND uses](c2world-platform/land/land-uses.md)
+  * [LAND Tokenomics](c2world-platform/land/land-tokenomics.md)
+  * [Buy LAND Advantage Now](c2world-platform/land/buy-land-advantage-now.md)
+  * [View owned LAND](c2world-platform/land/view-owned-land.md)
+  * [Buy LAND way](c2world-platform/land/buy-land-way.md)
+* [Create](c2world-platform/create.md)
+* [Marketplace](c2world-platform/marketplace/README.md)
+  * [Blind Box](c2world-platform/marketplace/blind-box.md)
+  * [Rental system](c2world-platform/marketplace/rental-system.md)
+* [Vault](c2world-platform/vault.md)
+* [DAO](c2world-platform/dao.md)
+* [Dashboard](c2world-platform/dashboard.md)
 
 ## economic model
 
