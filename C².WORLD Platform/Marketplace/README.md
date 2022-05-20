@@ -12,8 +12,8 @@ Not only do MOD creators gain passive income, but material creators can also ben
 
 In the C².WORLD market, NFTs need to obtain corresponding information to display, so that everyone can better understand the products. This information includes:
 
-* Name and type : In order to help potential buyers find the desired product more accurately and quickly in the market, you need to name the product and select the correct product category;
-* Describe : You can add descriptions to the product, such as its size, function, features, etc., or even create a fictional backstory for the product to attract others;
-* Thumbnail : Thumbnails can be more convenient to show the appearance of the product. Assets created through the C².WORLD authoring tool can choose to automatically generate thumbnails when exporting;
-* Price : You can freely define the price of the product in the market, but every time you change the price, you need to remove the product from the shelf first.
-* Value : Different commodities have different attributes, which will reflect the rarity of the commodities. The quantity and number of derivations of some commodities are limited.
+* **Name and type** : In order to help potential buyers find the desired product more accurately and quickly in the market, you need to name the product and select the correct product category;
+* **Describe** : You can add descriptions to the product, such as its size, function, features, etc., or even create a fictional backstory for the product to attract others;
+* **Thumbnail** : Thumbnails can be more convenient to show the appearance of the product. Assets created through the C².WORLD authoring tool can choose to automatically generate thumbnails when exporting;
+* **Price** : You can freely define the price of the product in the market, but every time you change the price, you need to remove the product from the shelf first.
+* **Value** : Different commodities have different attributes, which will reflect the rarity of the commodities. The quantity and number of derivations of some commodities are limited.
