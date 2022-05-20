@@ -7,10 +7,10 @@ C².WORLD issues two tokens:
 
 ![](<../../.gitbook/assets/image (6) (1).png>)
 
-{% content-ref url="$C2C.md" %}
-[$C2C.md]($C2C.md)
+{% content-ref url="../dual-token-system/c2c.md" %}
+[c2c.md](../dual-token-system/c2c.md)
 {% endcontent-ref %}
 
-{% content-ref url="$C2G.md" %}
-[$C2G.md]($C2G.md)
+{% content-ref url="../dual-token-system/c2g.md" %}
+[c2g.md](../dual-token-system/c2g.md)
 {% endcontent-ref %}

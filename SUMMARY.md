@@ -29,8 +29,8 @@
 ## economic model
 
 * [Dual Token System](<economic-model/Dual Token System/README.md>)
-  * [$C2C](<economic-model/Dual Token System/$C2C.md>)
-  * [$C2G](<economic-model/Dual Token System/$C2G.md>)
+  * [$C2C](economic-model/dual-token-system/c2c.md)
+  * [$C2G](economic-model/dual-token-system/c2g.md)
 * [Earn](economic-model/Earn/README.md)
   * [$C2G income task](<economic-model/Earn/$C2G income task.md>)
   * [Recommended income](<economic-model/Earn/Recommended income.md>)
