@@ -18,13 +18,13 @@ $C2C is an ERC-20 token built on the blockchain and is the governance token in C
 
 The total amount of $C2C tokens is 100 billion and will be gradually destroyed until 50 billion remain. The specific distribution is as follows:
 
-|                 |         C2C         |     %    | Vesting                                                                                        |
-| :-------------: | :-----------------: | :------: | ---------------------------------------------------------------------------------------------- |
-|     Treasury    |    54,000,000,000   |    54%   | Unlocked as needed.                                                                            |
-|     Ecology     |    12,000,000,000   |    12%   | 30% on TGE, Monthly vesting for 24 months.                                                     |
-|       Team      |    15,000,000,000   |    15%   | 36-month vesting schedule with a 12 months cliff and quarterly vesting in months 13-36.        |
-|      Angel      |    5,000,000,000    |    5%    | 30-month vesting schedule with a 12 months cliff and quarterly vesting in the 13th-30th month. |
-| Private Round 1 |    8,000,000,000    |    8%    | 10% on TGE, 8 months cliff. The rest of the quarterly vesting for 18 months.                   |
-| Private Round 2 |    4,000,000,000    |    4%    | 10% on TGE, 6 months cliff. The rest of the quarterly vesting for 18 months.                   |
-|   Public Sale   |    2,000,000,000    |    2%    | 20% on TGE. The rest of the quarterly vesting for 18 months.                                   |
-|    **Total**    | **100,000,000,000** | **100%** |                                                                                                |
+|                  |         C2C         |     %    | Vesting                                                                                        |
+| :--------------: | :-----------------: | :------: | ---------------------------------------------------------------------------------------------- |
+| Treasury/Ecology |    43,000,000,000   |    43%   | Unlocked as needed.                                                                            |
+|     Community    |    15,000,000,000   |    15%   | 20% on TGE, Monthly vesting for 24 months.                                                     |
+|       Team       |    20,000,000,000   |    20%   | 36-month vesting schedule with a 12 months cliff and quarterly vesting in months 13-36.        |
+|       Angel      |    5,000,000,000    |    5%    | 30-month vesting schedule with a 12 months cliff and quarterly vesting in the 13th-30th month. |
+|  Private Round 1 |    8,000,000,000    |    8%    | 10% on TGE, 8 months cliff. The rest of the quarterly vesting for 18 months.                   |
+|  Private Round 2 |    7,000,000,000    |    7%    | 10% on TGE, 6 months cliff. The rest of the quarterly vesting for 18 months.                   |
+|    Public Sale   |    2,000,000,000    |    2%    | 100% on TGE.                                                                                   |
+|     **Total**    | **100,000,000,000** | **100%** |                                                                                                |
