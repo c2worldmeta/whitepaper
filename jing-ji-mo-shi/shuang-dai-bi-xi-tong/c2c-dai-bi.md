@@ -18,13 +18,13 @@ $C2C是建立在区块链上的 ERC-20 代币，也是C².WORLD中的治理代�
 
 $C2C代币总量为1000亿，将逐渐销毁，直到剩下500亿枚。具体分配如下：
 
-|                 |         C2C         |     %    | Vesting                                                                                        |                                       |
-| :-------------: | :-----------------: | :------: | ---------------------------------------------------------------------------------------------- | :-----------------------------------: |
-|     Treasury    |    54,000,000,000   |    54%   | Unlocked as needed.                                                                            |                Unlocked               |
-|     Ecology     |    12,000,000,000   |    12%   | 30% on TGE, Monthly vesting for 24 months.                                                     |       Some unlocked, some locked      |
-|       Team      |    15,000,000,000   |    15%   | 36-month vesting schedule with a 12 months cliff and quarterly vesting in months 13-36.        |                                       |
-|      Angel      |    5,000,000,000    |    5%    | 30-month vesting schedule with a 12 months cliff and quarterly vesting in the 13th-30th month. |       Some unlocked, some locked      |
-| Private Round 1 |    8,000,000,000    |    8%    | 10% on TGE, 8 months cliff. The rest of the quarterly vesting for 18 months.                   | Locked: Issuance starts in Q1-Q2 2021 |
-| Private Round 2 |    4,000,000,000    |    4%    | 10% on TGE, 6 months cliff. The rest of the quarterly vesting for 18 months.                   | Locked: issuance starts in Q1-Q2 2021 |
-|   Public Sale   |    2,000,000,000    |    2%    | 20% on TGE. The rest of the quarterly vesting for 18 months.                                   |                                       |
-|    **Total**    | **100,000,000,000** | **100%** |                                                                                                |                                       |
+|                  |         C2C         |     %    | Vesting                                                                                        |
+| :--------------: | :-----------------: | :------: | ---------------------------------------------------------------------------------------------- |
+| Treasury/Ecology |    43,000,000,000   |    43%   | Unlocked as needed.                                                                            |
+|     Community    |    15,000,000,000   |    15%   | 20% on TGE, Monthly vesting for 24 months.                                                     |
+|       Team       |    20,000,000,000   |    20%   | 36-month vesting schedule with a 12 months cliff and quarterly vesting in months 13-36.        |
+|       Angel      |    5,000,000,000    |    5%    | 30-month vesting schedule with a 12 months cliff and quarterly vesting in the 13th-30th month. |
+|  Private Round 1 |    8,000,000,000    |    8%    | 10% on TGE, 8 months cliff. The rest of the quarterly vesting for 18 months.                   |
+|  Private Round 2 |    7,000,000,000    |    7%    | 10% on TGE, 6 months cliff. The rest of the quarterly vesting for 18 months.                   |
+|    Public Sale   |    2,000,000,000    |    2%    | 100% on TGE.                                                                                   |
+|     **Total**    | **100,000,000,000** | **100%** |                                                                                                |
