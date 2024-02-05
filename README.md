@@ -18,9 +18,8 @@ _C².WORLD is dedicated to building a UGC-driven decentralized sandbox multivers
 
 ### Glossary
 
-| **AML/CFT**     | Anti-Money Laundering and Combating the Funding of Terrorism | 反洗錢和打擊資助恐怖主義 |
-| --------------- | ------------------------------------------------------------ | ------------ |
 | **API**         | Application Programming Interface                            | 應用程序編程接口     |
+| --------------- | ------------------------------------------------------------ | ------------ |
 | **DLT**         | Distributed Ledger Technology                                | 分佈式分類技術      |
 | **IP**          | Intellectual Property                                        | 知識產權         |
 | **IPO**         | Initial Public Offering                                      | 首次公開發行       |
