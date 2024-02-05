@@ -18,9 +18,8 @@ _C².WORLD致力于打造以UGC为驱动的去中心化沙盒多元宇宙，Conn
 
 ### 术语说明
 
-| **AML/CFT**     | Anti-Money Laundering and Combating the Funding of Terrorism | 反洗钱和打击资助恐怖主义 |
-| --------------- | ------------------------------------------------------------ | ------------ |
 | **API**         | Application Programming Interface                            | 应用程序编程接口     |
+| --------------- | ------------------------------------------------------------ | ------------ |
 | **DLT**         | Distributed Ledger Technology                                | 分布式分类技术      |
 | **IP**          | Intellectual Property                                        | 知识产权         |
 | **IPO**         | Initial Public Offering                                      | 首次公开发行       |
